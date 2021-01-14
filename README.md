@@ -4,14 +4,21 @@ Projek truffle bahagian 2. Sila rujuk https://thuleen.io/resources/2021/01/13/pr
 
 ## Usage
 
--   Run [ganache-cli](https://github.com/trufflesuite/ganache-cli)
--   Change into `projek-truffle-bahagian-2`
--   To migrate smart contract:<br />
-    \$ truffle migrate
--   To test:<br />
-    \$ truffle test
--   To interact via console:<br />
-    \$ truffle console
+Clone this repository:<br />
+`$ git clone https://github.com/thuleen/projTruffleSaya-2.git`
+
+Run [ganache-cli](https://github.com/trufflesuite/ganache-cli)
+
+Change into `projek-truffle-bahagian-2`, then do the followings:
+
+To migrate smart contract:<br />
+`$ truffle migrate`
+
+To test smart contract(s):<br />
+`$ truffle test`
+
+To interact smart contract(s) via console:<br />
+`$ truffle console`
 
 ## Built With
 
